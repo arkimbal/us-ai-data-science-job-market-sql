@@ -40,6 +40,8 @@ To avoid global averaging effects and better reflect realistic market behavior, 
 ---
 
 ## Project Structure
+
+```text
 us-ai-data-science-job-market-sql/
 ├── README.md
 ├── .gitignore
@@ -55,6 +57,7 @@ us-ai-data-science-job-market-sql/
 │   └── 07_industry_snapshot_latest_year.sql
 └── visuals/
     └── dashboard_summary.png
+```
 
 ---
 
