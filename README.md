@@ -44,17 +44,17 @@ us-ai-data-science-job-market-sql/
 ├── README.md
 ├── .gitignore
 ├── sql/
-│ ├── 00_schema_and_sanity_checks.sql
-│ ├── 01_clean_view.sql
-│ ├── 01a_clean_view_us.sql
-│ ├── 02_demand_over_time.sql
-│ ├── 03_salary_trends.sql
-│ ├── 04_remote_work_trends.sql
-│ ├── 05_salary_by_experience.sql
-│ ├── 06_remote_by_experience.sql
-│ └── 07_industry_snapshot_latest_year.sql
+│   ├── 00_schema_and_sanity_checks.sql
+│   ├── 01_clean_view.sql
+│   ├── 01a_clean_view_us.sql
+│   ├── 02_demand_over_time.sql
+│   ├── 03_salary_trends.sql
+│   ├── 04_remote_work_trends.sql
+│   ├── 05_salary_by_experience.sql
+│   ├── 06_remote_by_experience.sql
+│   └── 07_industry_snapshot_latest_year.sql
 └── visuals/
-└── dashboard_summary.png
+    └── dashboard_summary.png
 
 ---
 
